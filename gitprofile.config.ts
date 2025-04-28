@@ -90,18 +90,18 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'Hilmar Cheese Company',
+      position: 'Tour Guide',
+      from: 'July 2021',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: 'https://www.hilmar.com/',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'Emanuel Medical Center',
+      position: 'Medical Scribe',
+      from: 'March 2025',
+      to: 'Present',
+      companyLink: '',
     },
   ],
   certifications: [
