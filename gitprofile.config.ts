@@ -33,20 +33,20 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Presentation from Parasitology',
+          title: 'Presentation: Leishmania donovani',
           description:
-            'A project which explores the life cycle, transmission, symptoms, diseases, diagnosis, treatment, and global impact of Leishmania donovani',
+            'A project which explores the life cycle, transmission, symptoms, diseases, diagnosis, treatment, and global impact of Leishmania donovani.',
           imageUrl:
-            '',
-          link: 'https://example.com',
+            'ps://github.com/lillyannazevedo/lillyannazevedo.github.io/raw/main/Screen%20Shot%202025-04-30%20at%209.05.12%20AM.png',
+          link: 'https://github.com/lillyannazevedo/lillyannazevedo.github.io/raw/main/Leishmania%20donovani.pdf',
         },
         {
-          title: 'Project Name',
-          description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+          title: 'Disease Paper: Listeria monocytogenes',
+          description: 
+            'This paper examines the characteristics, clinical symptoms, high risk populations, and prevention strategies of Listeria monocytogenes.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://github.com/lillyannazevedo/lillyannazevedo.github.io/raw/main/Screen%20Shot%202025-04-30%20at%209.11.05%20AM.png',
+          link: 'https://github.com/lillyannazevedo/lillyannazevedo.github.io/raw/main/Disease%20Paper%20(1).pdf',
         },
       ],
     },
