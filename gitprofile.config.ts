@@ -127,9 +127,9 @@ Zoonotic Potential',
       conferenceName: '',
       journalName: 'Microbiology Resource Announcement',
       authors: 'Lillyanna Azevedo, Julian Garcia, Priscilla Garcia, Taylor Hedley, Tricia Van Laar',
-      link: 'https://example.com',
+      link: 'https://github.com/lillyannazevedo/lillyannazevedo.github.io/raw/main/Pretty%20paper.pdf',
       description:
-        'Isolated from a Russian space station, Elizabethkingia miricola DSM 14571 is a
+        'In preparation: Isolated from a Russian space station, Elizabethkingia miricola DSM 14571 is a
 Gram-negative opportunistic and antibiotic resistant human pathogen. Sequencing its genome
 reveals 4,064 genes, including virulence factors and secondary metabolic clusters. This research
 could offer further insight into pathogenicity, environmental resilience, resistance mechanisms,
