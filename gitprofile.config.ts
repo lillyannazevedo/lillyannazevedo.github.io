@@ -122,13 +122,18 @@ const CONFIG = {
   ],
   publications: [
     {
-      title: 'Publication Title',
+      title: 'Genomic Insights into Elizabethkingia miricola DSM 14571: Virulence, Resistance, and
+Zoonotic Potential',
       conferenceName: '',
-      journalName: 'Journal Name',
-      authors: 'John Doe, Jane Smith',
+      journalName: 'Microbiology Resource Announcement',
+      authors: 'Lillyanna Azevedo, Julian Garcia, Priscilla Garcia, Taylor Hedley, Tricia Van Laar',
       link: 'https://example.com',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+        'Isolated from a Russian space station, Elizabethkingia miricola DSM 14571 is a
+Gram-negative opportunistic and antibiotic resistant human pathogen. Sequencing its genome
+reveals 4,064 genes, including virulence factors and secondary metabolic clusters. This research
+could offer further insight into pathogenicity, environmental resilience, resistance mechanisms,
+and zoonotic risks.',
     },
     {
       title: 'Publication Title',
