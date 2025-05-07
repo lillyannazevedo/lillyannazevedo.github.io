@@ -122,8 +122,7 @@ const CONFIG = {
   ],
   publications: [
     {
-      title: 'Genomic Insights into Elizabethkingia miricola DSM 14571: Virulence, Resistance, and
-Zoonotic Potential',
+      title: 'Genomic Insights into Elizabethkingia miricola DSM 14571: Virulence, Resistance, and Zoonotic Potential',
       conferenceName: '',
       journalName: 'Microbiology Resource Announcement',
       authors: 'Lillyanna Azevedo, Julian Garcia, Priscilla Garcia, Taylor Hedley, Tricia Van Laar',
