@@ -135,7 +135,7 @@ reveals 4,064 genes, including virulence factors and secondary metabolic cluster
 could offer further insight into pathogenicity, environmental resilience, resistance mechanisms,
 and zoonotic risks.',
     },
-  ],
+  ];
   // Display articles from your medium or dev account. (Optional)
   blog: {
     source: '', // medium | dev
