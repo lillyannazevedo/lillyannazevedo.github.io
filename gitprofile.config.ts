@@ -129,7 +129,7 @@ const CONFIG = {
       link: 'https://github.com/lillyannazevedo/lillyannazevedo.github.io/raw/main/MRA_Paper.pdf',
       description: 'In preparation: Isolated from a Russian space station, Elizabethkingia miricola DSM 14571 is a Gram-negative opportunistic and antibiotic resistant human pathogen. Sequencing its genome reveals 4,064 genes, including virulence factors and secondary metabolic clusters. This research could offer further insight into pathogenicity, environmental resilience, resistance mechanisms, and zoonotic risks.',
     },
-    {
+    ],
   // Display articles from your medium or dev account. (Optional)
   blog: {
     source: '', // medium | dev
