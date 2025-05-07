@@ -27,7 +27,7 @@ const CONFIG = {
         // Properties for manually specifying projects
         projects: ['lillyannazevedo/MICROBIOMETUTORIAL-', 'lillyannazevedo/sectionreport'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
-    },
+      {
     external: {
       header: 'My Projects',
       // To hide the `External Projects` section, keep it empty.
